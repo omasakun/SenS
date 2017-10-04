@@ -86,5 +86,10 @@ var SongList = [{
 		Level: 15,
 		File: "Smoke-15",
 		Music: "Smoke.mp3"
+	},{
+		Title: "StatDrive",
+		Level: 9,
+		File: "StarDrive-9",
+		Music: "StarDrive.m4a"
 	}
 ];
